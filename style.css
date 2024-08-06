@@ -740,6 +740,12 @@ footer {
     font-size: 22px;
   }
 
+  .cv.btn{
+        text-align: center;
+    width: 200px;
+    font-size: 22px;
+  }
+
 
   /* Skills Section */
 
